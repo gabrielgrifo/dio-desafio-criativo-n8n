@@ -2,6 +2,7 @@
 
 > **Desafio Criativo DIO:** Planejando Automações com N8N Usando Apenas Bons Prompts  
 > **Tema:** Automação de Atendimento e Triagem de Hóspedes para Casa de Veraneio em Peruíbe-SP  
+> **Autor:** [Gabriel Grifo](https://github.com/gabrielgrifo)  
 > **Responsável / Anfitriã:** Luciana de Andrade  
 
 ---
@@ -116,6 +117,11 @@ flowchart LR
 
 ---
 
-## 👨‍💻 Autor e Créditos
+## 👨‍💻 Autor
 
-Projeto desenvolvido como solução prática de automação e engenharia de prompt para o Desafio Criativo da [Digital Innovation One (DIO)](https://dio.me).
+Desenvolvido por **Gabriel Grifo**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-grifo/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielgrifo)
+
+*Projeto desenvolvido como solução prática de automação e engenharia de prompt para o Desafio Criativo da [Digital Innovation One (DIO)](https://dio.me).*
